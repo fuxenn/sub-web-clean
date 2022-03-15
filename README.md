@@ -41,7 +41,7 @@ sudo yarn serve
 
 出现下图则表示前端调试模式启动成功
 
-![](https://cdn.back2me.cn/2020/11/02/70de43e5ca4da.png)
+![预览](https://cdn.back2me.cn/2020/11/02/70de43e5ca4da.png)
 
 这时，我们浏览器访问 `http://服务器ip:8080/` 应该可以进行前端 sub-web-clean 的预览了。
 
