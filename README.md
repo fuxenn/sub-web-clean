@@ -23,7 +23,7 @@ sudo git --version
 2.拉取并进入目录
 
 ```shell
-sudo git clone git://github.com/fuxenn/sub-web-clean.git
+sudo git clone https://github.com/fuxenn/sub-web-clean.git
 cd sub-web-clean
 ```
 
