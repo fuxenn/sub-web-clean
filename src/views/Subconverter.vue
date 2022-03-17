@@ -392,6 +392,7 @@ export default {
           'subconverter作者提供': 'https://subcon.dlj.tf/sub?',
           'sub作者&lhie1提供': 'https://api.dler.io/sub?',
           '品云提供': 'https://sub.id9.cc/sub?',
+          '余晖无垠提供': 'https://subc.api.rssins.net/sub?',
         },
         backendOptions: [
           { value: 'https://api.v1.mk/sub?' },
@@ -654,6 +655,11 @@ export default {
                 label: 'DlerCloud Silver 李哥定制规则',
                 value:
                   'https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/dlercloud_lige_silver.ini',
+              },
+              {
+                label: '余晖无垠',
+                value:
+                  'https://github.com/RSSYLY/ProxyRules/raw/main/config/AntiAD_symple.ini',
               },
             ],
           },
