@@ -404,13 +404,6 @@ export default {
         ],
         remoteConfig: [
           {
-            label:'fuxenn',
-            options:[
-              { lable: 'fuxenn',
-                value: 'https://api.v1.mk/sub?', },
-            ],
-          },
-          {
             label: '通用',
             options: [
               {
@@ -828,6 +821,10 @@ export default {
           {
             label: '特殊',
             options: [
+              {
+                label: 'fuxenn',
+                value: 'https://raw.githubusercontent.com/fuxenn/clash-rules/main/Online_Full_MultiMode.ini',
+              },
               {
                 label: 'NeteaseUnblock',
                 value:
