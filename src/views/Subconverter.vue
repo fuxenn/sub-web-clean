@@ -404,6 +404,13 @@ export default {
         ],
         remoteConfig: [
           {
+            label:'fuxenn',
+            options:[
+              { lable: 'fuxenn',
+                value: 'https://api.v1.mk/sub?', },
+            ],
+          },
+          {
             label: '通用',
             options: [
               {
